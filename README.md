@@ -6,7 +6,7 @@ This project presents an end-to-end data pipeline where quotes were scraped from
 
 ---
 
-## 🔗 Live Demo / Preview
+## 🔗 Preview
 
 🖼️ See screenshots 
 📁 Power BI file: [`Quote_Analysis_Dashboard.pbix`](./Quote_Analysis_Dashboard.pbix)
